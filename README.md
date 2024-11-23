@@ -1,4 +1,4 @@
-# DataPrep
+# Preparação e Transformação de Dados
 
 1. Introdução
     Este projeto tem como objetivo construir um fluxo completo para a preparação e transformação de dados brutos, tornando-os utilizáveis por especialistas. O pipeline abrangerá desde a ingestão inicial até a geração de um conjunto de dados limpo e estruturado, pronto para análise e utilização.
