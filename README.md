@@ -152,13 +152,13 @@
 
     - Requisitos Técnicos
     
-        •	Dados armazenados em formato compatível com as ferramentas utilizadas.
-        •	Escalabilidade para grandes volumes de dados.
+        - Dados armazenados em formato compatível com as ferramentas utilizadas.
+	- Escalabilidade para grandes volumes de dados.
     
     - Requisitos de Negócio
     
-        •	Dados transformados precisam atender às necessidades dos especialistas.
-        •	Garantir a segurança e conformidade com regulamentos, como LGPD ou GDPR.
+        - Dados transformados precisam atender às necessidades dos especialistas.
+        - Garantir a segurança e conformidade com regulamentos, como LGPD ou GDPR.
 
 6. Conclusão
 
