@@ -6,7 +6,7 @@
 2. Estrutura do Pipeline
 
     -	Ingestão de Dados
-        - Entrada dos dados brutos de arquivos CSV.
+        - Entrada dos dados brutos de arquivos CSV obtidos do Kaggle (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data?select=olist_geolocation_dataset.csv)
 
     -	Transformação dos Dados
         - Aplicação de processos como normalização, padronização, criação de novas colunas e agregação de dados.
