@@ -26,8 +26,10 @@
       - Identificar as fontes de dados: arquivos locais em formato CSV.
       - Configurar conectores e autenticação para a criação do container Postgres dentro do docker.
       - Copiar os arquivos da maquina local para o container do docker.
+      ```
           $ docker cp olist_sellers_dataset.csv sqlserver:/var/opt/mssql/data/
-      - Popular as tabelas no Postgres com os arquivos copiados:
+      ```
+      - Popular as tabelas no PostgreSQL com os arquivos copiados:
       ``` sql
           COPY olist_sellers_dataset
           FROM '/tmp/olist_sellers_dataset.csv'
