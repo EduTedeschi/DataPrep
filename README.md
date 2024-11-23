@@ -41,7 +41,7 @@
 
     - Desenvolvimento do relacionamento star schema conforme imagem abaixo.
 
-    
+    ![alt text](https://github.com/EduTedeschi/DataPrep/blob/main/Images/StarSchema.png?raw=true)
     
     - Criação das tabelas do star schema
 
