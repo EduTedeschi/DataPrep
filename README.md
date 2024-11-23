@@ -149,9 +149,6 @@
     ```
 
     - Popular as tabelas do star schema utilizando script python para fazer a estração das tabelas raw e popular as tabelas specialistas
-    ```python
-    
-    ```
 
 5. Requisitos do Projeto
 
