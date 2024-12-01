@@ -29,6 +29,10 @@
       ```
           $ docker cp olist_sellers_dataset.csv sqlserver:/var/opt/mssql/data/
       ```
+5. Comando para subir Docker
+     ```
+     docker run --name some-postgres-v2 -e POSTGRES_PASSWORD=postgres -p 5431:5434 -d postgres
+     ```
       - Popular as tabelas no PostgreSQL com os arquivos copiados:
       ``` sql
           COPY olist_sellers_dataset
